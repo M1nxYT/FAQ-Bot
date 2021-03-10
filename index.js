@@ -42,19 +42,19 @@ client.on('message', message => {
 						break;
 					case ("jb"):
 						version = args[0]
-						if(jb.hasOwnProperty(version)){
+						if (jb.hasOwnProperty(version)) {
 							const response = new Discord.MessageEmbed()
-							.setColor('#FFFFFF')
-							.setAuthor(jb[version].title)
-							.setDescription(jb[version].description)
-							.setThumbnail(jb[version].image)
-							.addFields(
-								jb[version].resources[1],
-								jb[version].resources[2],
-								jb[version].resources[3]
-							)
-							.setTimestamp()
-							.setFooter("MinxterYT's FAQ Bot", 'https://cdn.discordapp.com/avatars/719292655963734056/5ac32a24129a2d2a6762f824204180aa.webp');
+								.setColor('#FFFFFF')
+								.setAuthor(jb[version].title)
+								.setDescription(jb[version].description)
+								.setThumbnail(jb[version].image)
+								.addFields(
+									jb[version].resources[1],
+									jb[version].resources[2],
+									jb[version].resources[3]
+								)
+								.setTimestamp()
+								.setFooter("MinxterYT's FAQ Bot", 'https://cdn.discordapp.com/avatars/719292655963734056/5ac32a24129a2d2a6762f824204180aa.webp');
 							message.channel.send(response);
 							break;
 						}
@@ -63,21 +63,21 @@ client.on('message', message => {
 						}
 						break;
 					case ("altstore"):
-					console.log('ok')
+						console.log('ok')
 						const response = new Discord.MessageEmbed()
-						.setColor('#FFFFFF')
-						.setAuthor('FAQ BOT')
-						.setDescription('How to install altstore')
-						.setThumbnail('https://i.imgur.com/I9T5Tko.png?1')
-						.addFields(
-							{
-							"value": "[link to resource](https://altstore.io/)",
-        			"name": "Altstore",
-							"inline": true
-							}
-						)
-						.setTimestamp()
-						.setFooter("MinxterYT's FAQ Bot", 'https://cdn.discordapp.com/avatars/719292655963734056/5ac32a24129a2d2a6762f824204180aa.webp');
+							.setColor('#FFFFFF')
+							.setAuthor('FAQ BOT')
+							.setDescription('How to install altstore')
+							.setThumbnail('https://i.imgur.com/I9T5Tko.png?1')
+							.addFields(
+								{
+									"value": "[link to resource](https://altstore.io/)",
+									"name": "Altstore",
+									"inline": true
+								}
+							)
+							.setTimestamp()
+							.setFooter("MinxterYT's FAQ Bot", 'https://cdn.discordapp.com/avatars/719292655963734056/5ac32a24129a2d2a6762f824204180aa.webp');
 						message.channel.send(response);
 						break;
 				}
