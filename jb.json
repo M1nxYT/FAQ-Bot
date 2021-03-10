@@ -1,0 +1,200 @@
+{
+  "6": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 6",
+    "image": "https://i.imgur.com/4QD4vtJ.png",
+    "resources": {
+      "1": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "2": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "7": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 7",
+    "image": "https://i.imgur.com/5uQoHqE.png",
+    "resources": {
+      "1": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "2": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "8": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 8",
+    "image": "https://i.imgur.com/5Nkt4rC.png",
+    "resources": {
+      "1": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "2": {
+        "value": "resource link",
+        "name": "Display text",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "9": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 9",
+    "image": "https://i.imgur.com/luJqI8N.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://phoenixpwn.com/)",
+        "name": "phoenix",
+				"inline": true
+      },
+			"2": {
+        "value": "[link to resource](http://wall.supplies/)",
+        "name": "Home Depot",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "10": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 10",
+    "image": "https://i.imgur.com/TVS4RmZ.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://totally-not.spyware.lol/)",
+        "name": "TotallyNotSpyware",
+				"inline": true
+      },
+      "2": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "11": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 11",
+    "image": "https://i.imgur.com/Ha0dqF0.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://unc0ver.dev/)",
+        "name": "Unc0ver",
+				"inline": true
+      },
+      "2": {
+        "value": "[link to resource](https://coolstar.org/electra/)",
+        "name": "Electra",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "12": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 12",
+    "image": "https://i.imgur.com/4swmdwl.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://unc0ver.dev/)",
+        "name": "Unc0ver",
+				"inline": true
+      },
+      "2": {
+        "value": "[link to resource](https://chimera.coolstar.org/)",
+        "name": "Chimera",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  },
+  "13": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 13",
+    "image": "https://i.imgur.com/8MnFo4O.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://unc0ver.dev/)",
+        "name": "Unc0ver",
+				"inline": true
+      },
+      "2": {
+        "value": "[link to resource](https://checkra.in/)",
+        "name": "Checkra1n",
+				"inline": true
+      },
+      "3": {
+        "value": "[link to resource](https://theodyssey.dev/)",
+        "name": "Odyssey",
+				"inline": false
+      }
+    }
+  },
+  "14": {
+    "title": "FAQ BOT",
+    "description": "How to jailbreak IOS 14",
+    "image": "https://i.imgur.com/MWV0I30.png",
+    "resources": {
+      "1": {
+        "value": "[link to resource](https://unc0ver.dev/)",
+        "name": "Unc0ver",
+				"inline": true
+      },
+      "2": {
+        "value": "[link to resource](https://checkra.in/)",
+        "name": "Checkra1n",
+				"inline": true
+      },
+      "3": {
+        "value": "\u200b",
+        "name": "\u200b",
+				"inline": false
+      }
+    }
+  }
+}
